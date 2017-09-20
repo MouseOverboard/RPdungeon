@@ -2004,3 +2004,125 @@ LogInit: Object subsystem initialized
 [2017.09.20-12.36.39:517][264]LogSavePackage: Save=40.43ms
 [2017.09.20-12.36.39:517][264]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/SideScrollerCharacterD13304C94E94DAC6EBF44694F7B2D901.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
 [2017.09.20-12.36.39:520][264]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2017.09.20-12.37.00:217][635]LogSavePackage: Save=2.76ms
+[2017.09.20-12.37.00:217][635]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/ThirdPerson_IdleRun_2DCF9D173E45E61BD77FCF3096DF793E82.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2017.09.20-12.37.00:220][635]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2017.09.20-12.37.00:530][635]LogSavePackage: Save=175.25ms
+[2017.09.20-12.37.00:530][635]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/SideScrollerExampleMapE2000C1D4D9979A530A18E83D017821D.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.09.20-12.37.00:534][635]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.09.20-12.37.00:559][635]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.334
+[2017.09.20-12.37.01:530][636]Cmd: QUIT_EDITOR
+[2017.09.20-12.37.02:403][636]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.09.20-12.37.02:529][636]LogExit: Preparing to exit.
+[2017.09.20-12.37.04:437][636]LogDirectoryWatcher: A directory notification for 'C:/Users/Pixelmaster/Documents/RPDungeon/Content/' was aborted.
+[2017.09.20-12.37.05:413][636]LogExit: Editor shut down
+[2017.09.20-12.37.05:442][636]LogExit: Transaction tracking system shut down
+[2017.09.20-12.37.08:312][636]LogObj: Freed 0b from 0 cluster array pools.
+[2017.09.20-12.37.08:313][636]LogExit: Object subsystem successfully closed.
+[2017.09.20-12.37.08:652][636]LogD3D11RHI: Shutdown
+[2017.09.20-12.37.08:652][636]LogD3D11RHI: CleanupD3DDevice
+[2017.09.20-12.37.08:915][636]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.20-12.37.09:968][636]LogModuleManager: Shutting down and abandoning module PhAT (544)
+[2017.09.20-12.37.09:992][636]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (542)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (540)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module SkeletonEditor (538)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module AnimationEditor (536)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (534)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module SequencerWidgets (530)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module BlueprintGraph (528)
+[2017.09.20-12.37.10:002][636]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (526)
+[2017.09.20-12.37.10:145][636]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (524)
+[2017.09.20-12.37.10:189][636]LogModuleManager: Shutting down and abandoning module CrashTracker (522)
+[2017.09.20-12.37.10:189][636]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2017.09.20-12.37.10:211][636]LogModuleManager: Shutting down and abandoning module AddContentDialog (518)
+[2017.09.20-12.37.10:227][636]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.16/FeaturePacks/' was aborted.
+[2017.09.20-12.37.10:274][636]LogModuleManager: Shutting down and abandoning module WidgetCarousel (517)
+[2017.09.20-12.37.10:275][636]LogModuleManager: Shutting down and abandoning module EditorWidgets (514)
+[2017.09.20-12.37.10:275][636]LogModuleManager: Shutting down and abandoning module CollectionManager (512)
+[2017.09.20-12.37.10:275][636]LogDirectoryWatcher: A directory notification for 'C:/Users/Pixelmaster/Documents/RPDungeon/Content/Collections/' was aborted.
+[2017.09.20-12.37.10:275][636]LogDirectoryWatcher: A directory notification for 'C:/Users/Pixelmaster/Documents/RPDungeon/Content/Developers/Pixelmaster/Collections/' was aborted.
+[2017.09.20-12.37.10:275][636]LogDirectoryWatcher: A directory notification for 'C:/Users/Pixelmaster/Documents/RPDungeon/Saved/Collections/' was aborted.
+[2017.09.20-12.37.10:275][636]LogModuleManager: Shutting down and abandoning module StatsViewer (510)
+[2017.09.20-12.37.10:290][636]LogModuleManager: Shutting down and abandoning module FoliageEdit (508)
+[2017.09.20-12.37.10:290][636]LogModuleManager: Shutting down and abandoning module LandscapeEditor (506)
+[2017.09.20-12.37.10:307][636]LogModuleManager: Shutting down and abandoning module MeshPaintMode (504)
+[2017.09.20-12.37.10:307][636]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (502)
+[2017.09.20-12.37.10:307][636]LogModuleManager: Shutting down and abandoning module ActorPickerMode (500)
+[2017.09.20-12.37.10:307][636]LogModuleManager: Shutting down and abandoning module GeometryMode (498)
+[2017.09.20-12.37.10:307][636]LogModuleManager: Shutting down and abandoning module TextureAlignMode (496)
+[2017.09.20-12.37.10:307][636]LogModuleManager: Shutting down and abandoning module BspMode (494)
+[2017.09.20-12.37.10:337][636]LogModuleManager: Shutting down and abandoning module HardwareSurvey (492)
+[2017.09.20-12.37.10:344][636]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (490)
+[2017.09.20-12.37.10:357][636]LogModuleManager: Shutting down and abandoning module AutomationWorker (488)
+[2017.09.20-12.37.10:370][636]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (486)
+[2017.09.20-12.37.10:381][636]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (484)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module PlacementMode (483)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (480)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (478)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (476)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (474)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (472)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module Media (471)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (468)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module CharacterAI (466)
+[2017.09.20-12.37.10:404][636]LogModuleManager: Shutting down and abandoning module AudioCapture (464)
+[2017.09.20-12.37.10:412][636]LogModuleManager: Shutting down and abandoning module SequenceRecorder (463)
+[2017.09.20-12.37.10:423][636]LogModuleManager: Shutting down and abandoning module SmartSnapping (460)
+[2017.09.20-12.37.10:423][636]LogModuleManager: Shutting down and abandoning module SessionServices (458)
+[2017.09.20-12.37.10:423][636]LogModuleManager: Shutting down and abandoning module ViewportSnapping (456)
+[2017.09.20-12.37.10:423][636]LogModuleManager: Shutting down and abandoning module ViewportInteraction (454)
+[2017.09.20-12.37.10:423][636]LogModuleManager: Shutting down and abandoning module ClothPainter (452)
+[2017.09.20-12.37.10:489][636]LogModuleManager: Shutting down and abandoning module LogVisualizer (450)
+[2017.09.20-12.37.10:490][636]LogModuleManager: Shutting down and abandoning module IntroTutorials (448)
+[2017.09.20-12.37.10:576][636]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (447)
+[2017.09.20-12.37.10:594][636]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (444)
+[2017.09.20-12.37.10:594][636]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (442)
+[2017.09.20-12.37.10:594][636]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (440)
+[2017.09.20-12.37.10:594][636]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (438)
+[2017.09.20-12.37.10:594][636]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (437)
+[2017.09.20-12.37.11:352][636]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (434)
+[2017.09.20-12.37.11:352][636]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (432)
+[2017.09.20-12.37.11:352][636]LogModuleManager: Shutting down and abandoning module InputBindingEditor (430)
+[2017.09.20-12.37.11:369][636]LogModuleManager: Shutting down and abandoning module MergeActors (428)
+[2017.09.20-12.37.11:379][636]LogModuleManager: Shutting down and abandoning module SizeMap (426)
+[2017.09.20-12.37.11:379][636]LogModuleManager: Shutting down and abandoning module TreeMap (424)
+[2017.09.20-12.37.11:407][636]LogModuleManager: Shutting down and abandoning module ReferenceViewer (422)
+[2017.09.20-12.37.11:407][636]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (420)
+[2017.09.20-12.37.11:417][636]LogModuleManager: Shutting down and abandoning module LocalizationService (419)
+[2017.09.20-12.37.11:449][636]LogModuleManager: Shutting down and abandoning module HardwareTargeting (416)
+[2017.09.20-12.37.11:449][636]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (414)
+[2017.09.20-12.37.11:472][636]LogModuleManager: Shutting down and abandoning module UndoHistory (412)
+[2017.09.20-12.37.11:480][636]LogModuleManager: Shutting down and abandoning module UserFeedback (410)
+[2017.09.20-12.37.11:480][636]LogModuleManager: Shutting down and abandoning module XmlParser (408)
+[2017.09.20-12.37.11:501][636]LogModuleManager: Shutting down and abandoning module Blutility (406)
+[2017.09.20-12.37.11:519][636]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (404)
+[2017.09.20-12.37.11:519][636]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (403)
+[2017.09.20-12.37.11:520][636]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (400)
+[2017.09.20-12.37.11:520][636]LogModuleManager: Shutting down and abandoning module SettingsEditor (398)
+[2017.09.20-12.37.11:520][636]LogModuleManager: Shutting down and abandoning module ProjectLauncher (396)
+[2017.09.20-12.37.11:528][636]LogModuleManager: Shutting down and abandoning module SessionFrontend (394)
+[2017.09.20-12.37.11:545][636]LogModuleManager: Shutting down and abandoning module ProfilerClient (392)
+[2017.09.20-12.37.11:620][636]LogModuleManager: Shutting down and abandoning module DeviceManager (390)
+[2017.09.20-12.37.11:641][636]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (389)
+[2017.09.20-12.37.11:715][636]LogModuleManager: Shutting down and abandoning module AutomationController (386)
+[2017.09.20-12.37.11:753][636]LogModuleManager: Shutting down and abandoning module AutomationWindow (384)
+[2017.09.20-12.37.11:760][636]LogModuleManager: Shutting down and abandoning module Layers (382)
+[2017.09.20-12.37.11:784][636]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (380)
+[2017.09.20-12.37.11:784][636]LogModuleManager: Shutting down and abandoning module DetailCustomizations (378)
+[2017.09.20-12.37.11:795][636]LogModuleManager: Shutting down and abandoning module PackagesDialog (376)
+[2017.09.20-12.37.11:795][636]LogModuleManager: Shutting down and abandoning module Persona (374)
+[2017.09.20-12.37.11:795][636]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (373)
+[2017.09.20-12.37.11:795][636]LogModuleManager: Shutting down and abandoning module AnimGraph (371)
+[2017.09.20-12.37.11:795][636]LogModuleManager: Shutting down and abandoning module Kismet (368)
+[2017.09.20-12.37.11:823][636]LogModuleManager: Shutting down and abandoning module ClassViewer (366)
+[2017.09.20-12.37.11:825][636]LogModuleManager: Shutting down and abandoning module Toolbox (364)
+[2017.09.20-12.37.11:831][636]LogModuleManager: Shutting down and abandoning module ModuleUI (362)
+[2017.09.20-12.37.11:873][636]LogModuleManager: Shutting down and abandoning module MovieSceneTools (360)
+[2017.09.20-12.37.11:879][636]LogModuleManager: Shutting down and abandoning module OutputLog (358)
+[2017.09.20-12.37.11:895][636]LogModuleManager: Shutting down and abandoning module GammaUI (356)
+[2017.09.20-12.37.11:917][636]LogModuleManager: Shutting down and abandoning module Documentation (354)
+[2017.09.20-12.37.11:918][636]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (352)
+[2017.09.20-12.37.11:918][636]LogModuleManager: Shutting down and abandoning module MovieScene (350)
+[2017.09.20-12.37.11:918][636]LogModuleManager: Shutting down and abandoning module Niagara (348)
+[2017.09.20-12.37.11:918][636]LogModuleManager: Shutting down and abandoning module NiagaraEditor (347)

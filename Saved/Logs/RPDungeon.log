@@ -232,3 +232,138 @@ LogInit: Object subsystem initialized
 [2017.09.20-08.46.51:699][102]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/UI96672C584883081A414B5690AE3707AD.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset'
 [2017.09.20-08.46.51:722][102]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset
 [2017.09.20-08.46.51:725][102]BlueprintEditorCompileResults: Info Fast Template Successfully Created.
+[2017.09.20-08.48.46:253][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Menu/UI" FILE="../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset" SILENT=true
+[2017.09.20-08.48.46:287][973]LogSavePackage: Save=31.66ms
+[2017.09.20-08.48.46:287][973]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/UIE7AA1C364931BC0439203E97EBF7BBBB.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset'
+[2017.09.20-08.48.46:291][973]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset
+[2017.09.20-08.49.37:369][384]LogEditorTransaction: Undo Add Widget
+[2017.09.20-08.51.12:129][172]BlueprintLog: New page: Compile UI
+[2017.09.20-08.51.12:260][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Menu/UI" FILE="../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset" SILENT=true
+[2017.09.20-08.51.12:308][172]LogSavePackage: Save=45.52ms
+[2017.09.20-08.51.12:308][172]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/UIE58F2BB142A34B8578C275B115DA727E.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset'
+[2017.09.20-08.51.12:311][172]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset
+[2017.09.20-08.51.12:317][172]BlueprintEditorCompileResults: Info Fast Template Successfully Created.
+[2017.09.20-08.51.47:265][197]BlueprintLog: New page: Compile UI
+[2017.09.20-08.51.47:383][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Menu/UI" FILE="../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset" SILENT=true
+[2017.09.20-08.51.47:434][197]LogSavePackage: Save=48.91ms
+[2017.09.20-08.51.47:434][197]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/UI3474FFA448C9C79A3194DF84533DCC64.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset'
+[2017.09.20-08.51.47:437][197]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset
+[2017.09.20-08.51.47:444][197]BlueprintEditorCompileResults: Info Fast Template Successfully Created.
+[2017.09.20-08.52.00:628][553]LogSlate: Took 0.011954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.20-08.52.18:035][623]BlueprintLog: New page: Compile SideScrollerCharacter
+[2017.09.20-08.52.18:055][623]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.09.20-08.52.18:055][623]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.09.20-08.52.18:341][623]LogSavePackage: Save=52.94ms
+[2017.09.20-08.52.18:341][623]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/SideScrollerCharacter174326A941766E59723FF295C57A4295.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2017.09.20-08.52.18:345][623]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2017.09.20-08.52.18:348][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Menu/UI" FILE="../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset" SILENT=true
+[2017.09.20-08.52.18:411][623]LogSavePackage: Save=59.34ms
+[2017.09.20-08.52.18:411][623]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/UI315E3EC14CAA01733BD476A564BA650C.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset'
+[2017.09.20-08.52.18:413][623]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/Blueprints/UI/Menu/UI.uasset
+[2017.09.20-08.52.18:418][623]BlueprintEditorCompileResults:Warning: Warning Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2017.09.20-08.52.18:418][623]BlueprintEditorCompileResults:Warning: Warning InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.09.20-08.52.18:418][623]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0771.52] Compile of SideScrollerCharacter successful, but with 2 Warning(s) [in 382 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.52.26:175][522]BlueprintLog: New page: Compile SideScrollerCharacter
+[2017.09.20-08.52.26:377][522]LogSavePackage: Save=37.21ms
+[2017.09.20-08.52.26:377][522]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/SideScrollerCharacter2D5A7D4A470BE6A0F894478F5BB80FEB.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2017.09.20-08.52.26:380][522]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2017.09.20-08.52.35:527][160]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.09.20-08.52.36:269][163]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RPDungeon
+[2017.09.20-08.52.36:269][163]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.52.36:269][163]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.09.20-08.52.36:269][163]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.52.36:269][163]LogTemp: BranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.09.20-08.52.37:225][238]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Pixelmaster\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.20-08.53.03:733][234]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.09.20-08.53.03:938][248]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RPDungeon
+[2017.09.20-08.53.03:938][248]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.53.03:938][248]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.09.20-08.53.03:938][248]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.53.03:938][248]LogTemp: BranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.09.20-08.53.03:959][250]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Pixelmaster\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.20-08.53.45:188][689]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.20-08.53.45:379][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.53.45:379][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.20-08.53.45:733][689]PIE: New page: PIE session: Minimal_Default (21 Sep 2017 4:53:45 am)
+[2017.09.20-08.53.45:798][689]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.20-08.53.46:032][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233334s)
+[2017.09.20-08.53.46:032][689]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.20-08.53.46:033][689]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2017.09.20-08.53.46:156][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.385386s)
+[2017.09.20-08.53.46:227][689]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.20-08.53.46:234][689]LogInit: FAudioDevice initialized.
+[2017.09.20-08.53.46:314][689]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.20-08.53.46:331][689]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.20-18.53.46
+[2017.09.20-08.53.46:342][689]LogWorld: Bringing up level for play took: 0.012927
+[2017.09.20-08.53.46:805][689]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.09.20-08.53.46:943][689]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.761
+[2017.09.20-08.53.46:944][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.53.48:855][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.53.48:932][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.53.54:828][437]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.09.20-08.53.55:070][457]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RPDungeon
+[2017.09.20-08.53.55:070][457]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.53.55:070][457]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.09.20-08.53.55:070][457]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.53.55:070][457]LogTemp: BranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.09.20-08.53.55:092][459]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Pixelmaster\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.20-08.54.08:123][838]LogEditorTransaction: Undo Add Action Mapping
+[2017.09.20-08.54.08:510][884]LogEditorTransaction: Undo Edit GameMode Override
+[2017.09.20-08.54.08:925][931]LogEditorTransaction: Undo Delete current selection
+[2017.09.20-08.54.09:530][999]LogEditorTransaction: Undo Delete current selection
+[2017.09.20-08.54.15:106][551]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.09.20-08.54.15:202][555]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RPDungeon
+[2017.09.20-08.54.15:202][555]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.54.15:202][555]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.16
+[2017.09.20-08.54.15:202][555]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.20-08.54.15:202][555]LogTemp: BranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries --- GameBranchPath = TERMINATOR/C/Program Files/Epic Games/UE_4.16/Engine/Binaries
+[2017.09.20-08.54.15:222][557]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Pixelmaster\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.20-08.54.48:507][867]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.20-08.54.48:527][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.48:527][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.09.20-08.54.48:527][867]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2017.09.20-08.54.48:536][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.09.20-08.54.48:540][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0921.64] Compile of SideScrollerCharacter successful, but with 1 Warning(s) [in 8 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.54.48:540][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0921.64] Compile of SideScrollerCharacter successful, but with 2 Warning(s) [in 0 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.54.48:540][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0921.64] Compile of SideScrollerCharacter successful, but with 3 Warning(s) [in 0 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.54.48:641][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0921.74] Compile of SideScrollerCharacter successful, but with 4 Warning(s) [in 100 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.54.48:646][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0921.75] Compile of SideScrollerCharacter successful, but with 5 Warning(s) [in 5 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.54.48:646][867]LogBlueprint:Warning: [Compiler SideScrollerCharacter] Warning [0921.75] Compile of SideScrollerCharacter successful, but with 6 Warning(s) [in 0 ms] (/Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter)
+[2017.09.20-08.54.48:717][867]LogSavePackage: Save=39.90ms
+[2017.09.20-08.54.48:717][867]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/SideScrollerCharacter40EA055945AF110036BE87A744D151E6.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2017.09.20-08.54.48:720][867]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
+[2017.09.20-08.54.48:744][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 216 ms (1 blueprints)
+[2017.09.20-08.54.48:744][867]PIE: New page: PIE session: Minimal_Default (21 Sep 2017 4:54:48 am)
+[2017.09.20-08.54.48:744][867]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.20-08.54.48:752][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007976s)
+[2017.09.20-08.54.48:753][867]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.20-08.54.48:753][867]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2017.09.20-08.54.48:753][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.009010s)
+[2017.09.20-08.54.48:775][867]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.20-08.54.48:780][867]LogInit: FAudioDevice initialized.
+[2017.09.20-08.54.48:835][867]LogLoad: Game class is 'GameModeBase'
+[2017.09.20-08.54.48:838][867]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.20-18.54.48
+[2017.09.20-08.54.48:838][867]LogWorld: Bringing up level for play took: 0.001586
+[2017.09.20-08.54.48:840][867]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.343
+[2017.09.20-08.54.48:840][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.50:164][997]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.50:197][997]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.52:814][290]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.20-08.54.55:348][583]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.20-08.54.55:367][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.55:367][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.20-08.54.55:367][583]PIE: New page: PIE session: Minimal_Default (21 Sep 2017 4:54:55 am)
+[2017.09.20-08.54.55:367][583]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.09.20-08.54.55:374][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007279s)
+[2017.09.20-08.54.55:375][583]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.20-08.54.55:375][583]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2017.09.20-08.54.55:375][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008229s)
+[2017.09.20-08.54.55:396][583]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.20-08.54.55:401][583]LogInit: FAudioDevice initialized.
+[2017.09.20-08.54.55:434][583]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.09.20-08.54.55:437][583]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.09.20-18.54.55
+[2017.09.20-08.54.55:437][583]LogWorld: Bringing up level for play took: 0.001187
+[2017.09.20-08.54.55:457][583]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.275
+[2017.09.20-08.54.55:457][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.59:854][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.54.59:889][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'

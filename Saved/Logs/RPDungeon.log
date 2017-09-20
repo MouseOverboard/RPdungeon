@@ -367,3 +367,17 @@ LogInit: Object subsystem initialized
 [2017.09.20-08.54.55:457][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
 [2017.09.20-08.54.59:854][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
 [2017.09.20-08.54.59:889][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.09.20-08.55.35:237][481]LogSavePackage: Save=173.67ms
+[2017.09.20-08.55.35:237][481]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/Minimal_Default_Auto1441C03C246ED7DD4640606BB0CDF9642.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2017.09.20-08.55.35:239][481]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.09.20-08.55.35:280][481]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.305
+[2017.09.20-08.55.35:280][481]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2017.09.20-08.57.42:562][ 45]LogSavePackage: Save=146.42ms
+[2017.09.20-08.57.42:562][ 45]LogSavePackage: Moving '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Saved/Minimal_Default7B9AD786477521F5EAAD199535E2030D.tmp' to '../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.09.20-08.57.42:597][ 45]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Pixelmaster/Documents/RPDungeon/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.09.20-08.57.42:618][ 45]LogFileHelpers: Saving map 'Minimal_Default' took 0.322
+[2017.09.20-08.57.43:161][ 45]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.20-08.57.43:690][ 46]Cmd: QUIT_EDITOR
+[2017.09.20-08.57.44:939][ 46]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.09.20-08.57.45:074][ 46]LogExit: Preparing to exit.
+[2017.09.20-08.57.47:843][ 46]LogDirectoryWatcher: A directory notification for 'C:/Users/Pixelmaster/Documents/RPDungeon/Content/' was aborted.

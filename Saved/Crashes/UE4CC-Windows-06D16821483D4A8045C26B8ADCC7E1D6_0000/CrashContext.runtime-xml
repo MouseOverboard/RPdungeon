@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<CrashGUID>UE4CC-Windows-06D16821483D4A8045C26B8ADCC7E1D6_0000</CrashGUID>
+<ProcessId>6008</ProcessId>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<IsEnsure>false</IsEnsure>
+<IsAssert>true</IsAssert>
+<CrashType>Assert</CrashType>
+<SecondsSinceStart>2083</SecondsSinceStart>
+<GameName>UE4-RPDungeon</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineModeEx>Vanilla</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.16.2-3514769+++UE4+Release-4.16</EngineVersion>
+<CommandLine>&quot;C:\Users\Pixelmaster\Desktop\RPDungeon\RPDungeon.uproject&quot; </CommandLine>
+<LanguageLCID>2057</LanguageLCID>
+<AppDefaultLocale>en-AU</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.16-CL-3514769</BuildVersion>
+<IsUE4Release>true</IsUE4Release>
+<UserName></UserName>
+<BaseDir>C:/Program Files/Epic Games/UE_4.16/Engine/Binaries/Win64/</BaseDir>
+<RootDir>C:/Program Files/Epic Games/UE_4.16/</RootDir>
+<MachineId>C98312054BDE16D8452AD696A8FBF7D6</MachineId>
+<LoginId>c98312054bde16d8452ad696a8fbf7d6</LoginId>
+<EpicAccountId>303e0005bc44460bab0e0c757e9ae9bf</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint>Layout=&quot;ContentBrowserTab1&quot; Label=&quot;Content Browser&quot; Content=SBox</UserActivityHint>
+<ErrorMessage>Assertion failed: CurrentPos + Count &lt;= TotalSizeOrMaxInt64IfNotReady() [File:D:\Build\++UE4+Release-4.16+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Serialization\AsyncLoading.cpp] [Line: 7395] &nl;Seeked past end of file ../../../../../../Users/Pixelmaster/Desktop/RPDungeon/Content/Data/Tables/DT_Characters.uasset (2736 / 2735)&nl;</ErrorMessage>
+<CrashDumpMode>0</CrashDumpMode>
+<CrashReporterMessage></CrashReporterMessage>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 750 Ti</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>8520638464</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>713097216</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>140733253136384</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>2262016000</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>2358988800</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>3068170240</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>3425185792</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+</FGenericCrashContext>
